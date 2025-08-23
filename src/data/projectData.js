@@ -11,20 +11,6 @@ export const projects = [
     },
     image: "",
     liveSite: "https://gengar3210.github.io/Habla-Claro/",
-    githubRepo: "https://gengar3210.github.io/Habla-Claro/",
-  },
- {
-    id: 2,
-    title: {
-      en: "Unknown",
-      es: "Desconocido",
-    },
-    description: {
-      en: "Hey, you! Check out my project below.",
-      es: "Oye, tú! Echa un vistazo a mi proyecto a continuación.",
-    },
-    image: "",
-    liveSite: "https://gengar3210.github.io/Habla-Claro/",
-    githubRepo: "https://gengar3210.github.io/Habla-Claro/",
+    githubRepo: "https://github.com/Gengar3210/Habla-Claro",
   },
 ];
